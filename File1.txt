@@ -2,3 +2,5 @@ Hello World!
 
 The day is rainy but working with computers mostly means you work indoor. What a luck!
 
+Here comes a weather update. It is not raining but a little windy.
+
