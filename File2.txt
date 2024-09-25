@@ -1,3 +1,5 @@
 This is the second text file.
 
 Here we do not mention the weather, only Git and such things.
+
+This line is an updated line due to Git Workshop.
